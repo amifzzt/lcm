@@ -34,9 +34,9 @@ github.com/RuriOSS/rurima
   11. ...
 
 已测试容器：
-  1.青龙
-  2.openlist
-  3.迅雷（64位）
-  4.emby
+  1.青龙  
+  2.openlist  
+  3.迅雷（64位）  
+  4.emby  
   5. ...
 
