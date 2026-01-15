@@ -1,0 +1,2 @@
+# lcm
+一个在安卓上运行oplist，ddns等应用和部分docker和chroot和entware的软件，兼容root后的32位的安卓4.4到64位的安卓15
